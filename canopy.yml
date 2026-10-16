@@ -1,0 +1,5 @@
+version: 1
+product: compiler-toolchain
+production_branch: main
+release_branches: ["7.x", "6.x", "5.x"]
+history: 365
